@@ -13,6 +13,7 @@ A Python-based tool to check cPanel credentials with proxy support. Developed fo
 2. Install dependencies:
    ```bash
    pip install requests colorama
+   pip install requests requests
 
 ## RUN Bot
    python CPANEL-CHK.py
